@@ -1,0 +1,56 @@
+.find{
+    font-family:cursive;
+}
+.SearchImg,.Earth{
+    width: 50px;
+    height: 50px;
+}
+.rowx{
+    padding: 20px;
+}
+body{
+    background: #9fc5ff;
+}
+.form{
+    position:relative;
+
+}
+.form-input{
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.form-input:focus{
+    box-shadow: none;
+    border:none;
+}
+.Find_country{
+    margin-top: 50px;
+}
+.searchDetails{
+    text-align: center;
+    font-size: 30px;
+}
+.searchBox{
+    background-color: rgb(228, 245, 220);
+    margin: 50px;
+    max-width: 600px;
+    padding: 100px;
+    border-radius: 20px;
+}
+.searchButton{
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 25px;
+}
+.cardsContain{
+    background-color: #9fc5ff;
+    /* max-width: 1000px; */
+    
+}
+.card-body{
+    max-width: 400px;
+    
+}
